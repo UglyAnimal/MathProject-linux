@@ -1,0 +1,4 @@
+/mnt/c/Users/rWX958585/Downloads/MathProject-linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/rWX958585/Downloads/MathProject-linux/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/rWX958585/Downloads/MathProject-linux/build/CMakeFiles/MathClient.dir
+/mnt/c/Users/rWX958585/Downloads/MathProject-linux/build/CMakeFiles/MathLibrary.dir
